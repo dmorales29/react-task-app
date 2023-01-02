@@ -1,4 +1,4 @@
-const tasks = [
+export const tasks = [
   {
     id: 0,
     title: "Tarea 1",
